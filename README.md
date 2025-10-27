@@ -78,12 +78,12 @@ I believe in a healthcare future where **AI is not a tool**, but a **colleague**
 ### 💫 **GitHub Activity**
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=m-aljasem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=m-aljasem&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=m-aljasem&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=m-aljasem&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-aljasem&theme=tokyonight" />
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-aljasem&theme=transparent" />
 </p>
 
 ---
