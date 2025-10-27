@@ -116,7 +116,7 @@ or imagining what **the AI-powered hospital of 2030** will look like.
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=Let's+Build+the+Future+of+Medicine+Together+🤝;One+Model+At+A+Time+🧠❤️" alt="Typing SVG" />
+  <img src="./images/typing-footer.svg" alt="Typing SVG" />
 </p>
 
 ---
