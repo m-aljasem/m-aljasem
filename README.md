@@ -1,6 +1,6 @@
 <!-- ✨ Dynamic Hero Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3500&pause=700&color=00E5FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+ Mohamad+AlJasem+👋;Physician+%7C+AI+Researcher+%7C+Software+Developer;Bridging+Medicine+%26+Machine+Intelligence;Redefining+Clinical+Innovation+Through+AI+🧠❤️" alt="Typing SVG" />
+  <img src="./images/typing-bannar.svg" />
 </p>
 
 
@@ -29,7 +29,7 @@ My work sits at the crossroads of **deep learning**, **digital health**, and **c
 | 💊 **SmartEHR** | Intelligent hospital workflow optimization system | Flask, PostgreSQL, FHIR |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,angular,mysql,linux,typescript,php,js&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,angular,mysql,linux,typescript,php,r&perline=10" />
 </p>
 
 ---
