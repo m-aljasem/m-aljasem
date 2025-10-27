@@ -121,4 +121,4 @@ or imagining what **the AI-powered hospital of 2030** will look like.
 
 ---
 
-  <img src="https://hit.yhype.me/github/profile?account_id=74351006" />
+![](https://hit.yhype.me/github/profile?account_id=74351006)
