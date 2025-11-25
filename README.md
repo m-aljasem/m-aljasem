@@ -109,7 +109,7 @@ I believe in a healthcare future where **AI is not a tool**, but a **colleague**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aljasem/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white" /></a>
+  <a href="[https://scholar.google.com/](https://scholar.google.com/citations?user=rvXrVr0AAAAJ&hl=en)"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white" /></a>
   <a href="mailto:mohamad@aljasem.eu.org"><img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail" /></a>
   <a href="https://github.com/m-aljasem"><img src="https://img.shields.io/github/followers/m-aljasem?label=Follow&style=social" /></a>
   
