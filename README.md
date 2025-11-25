@@ -21,12 +21,22 @@ My work sits at the crossroads of **deep learning**, **digital health**, and **c
 
 ### ⚙️ **My Current Projects**
 
-| 🔬 Project | 🧭 Description | 🚀 Tech Stack |
-|-------------|----------------|---------------|
-| 🫀 **CVD-AI** | Deep neural network for cardiovascular risk prediction | PyTorch, Scikit-learn, MONAI |
-| 👁 **CorneaNet** | AI system for corneal topography scan interpretation | TensorFlow, OpenCV, Streamlit |
-| ⚡ **EpiAI** | Predictive analytics for seizure forecasting | Python, FastAPI, LSTM |
-| 💊 **SmartEHR** | Intelligent hospital workflow optimization system | Flask, PostgreSQL, FHIR |
+
+| 🔬 **Project** | 🧭 **Description** |
+|:---------------|:-------------------|
+| [**🫀 tempora-cvd**](https://github.com/m-aljasem/tempora-cvd) | An experimental system for 10-year CVD risk prediction using temporal transformer models on synthetic EHR data |
+| [**🎓 FireLMS**](https://github.com/m-aljasem/FireLMS) | A light-weight learning management system based on Angular and Firebase |
+| [**🔗 ModelProxy**](https://github.com/m-aljasem/ModelProxy) | TypeScript-based model proxy service |
+| [**❤️ DelShad**](https://github.com/m-aljasem/DelShad) | Personalized Cardiovascular Diseases Platform for screening and risk reduction |
+| [**📱 VitaLink**](https://github.com/m-aljasem/VitaLink) | Human-Centric Health Tracking and Sharing App |
+| [**📊 Sample-Size-Calculator**](https://github.com/m-aljasem/Sample-Size-Calculator) | Sophisticated biomedical sample size calculator for research designs in biomedical and epidemiology studies |
+| [**🏥 Kamaryar**](https://github.com/m-aljasem/Kamaryar) | Evidence-based self-management program for non-specific low back pain |
+| [**🤖 ChatGBD**](https://github.com/m-aljasem/ChatGBD) | AI Agent to support researchers and policy makers working with Global Burden of Diseases (GBD) study datasets |
+| [**⚡ AutoGBD**](https://github.com/m-aljasem/AutoGBD) | Intelligent framework for harmonizing health data to Global Burden of Disease (GBD) standards |
+| [**📦 PyCVDRisk**](https://github.com/m-aljasem/PyCVDRisk) | Python library for calculating cardiovascular disease risk using clinically validated algorithms |
+| [**🗂️ OpenMedicalData**](https://github.com/m-aljasem/OpenMedicalData) | A repository of open medical data that can be accessed freely |
+| [**🧠 CardioPredictNet**](https://github.com/m-aljasem/CardioPredictNet) | Deep learning-based clinical support tool for cardiovascular disease risk stratification |
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,angular,mysql,linux,typescript,php,r&perline=10" />
